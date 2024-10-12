@@ -47,6 +47,8 @@ Please use the following technologies to complete the test:
 
 1. Implement the project as described above.
 2. Push your code to two repository for Laravel and Nextjs Separately.
+3. Mail to hr@xgenious.com one the project is done with your repo url
+   
    
 
 ## Evaluation Criteria
