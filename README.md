@@ -59,4 +59,4 @@ Please use the following technologies to complete the test:
 - Proper form validation using **Zod** in **Next.js**.
 - Adherence to the attached design image.
 - Here is figma URL or Design https://www.figma.com/design/yRb9VsumJBBlYwHqJ1kYcp/Laravel-Candidate?node-id=0-1&t=HNnZ6TWoZvwVaTze-1
-- You can ignore the layouts can focus only on the client module, Mainly insert, edit, views
+- You can ignore the layouts can focus only on the client module
