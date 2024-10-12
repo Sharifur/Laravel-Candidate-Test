@@ -47,7 +47,7 @@ Please use the following technologies to complete the test:
 
 1. Implement the project as described above.
 2. Push your code to two repository for Laravel and Nextjs Separately.
-3. Submit a pull request with a description of your implementation. 
+   
 
 ## Evaluation Criteria
 
