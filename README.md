@@ -42,22 +42,12 @@ Please use the following technologies to complete the test:
    - Apply **Tailwind CSS** for custom styles as needed.
    - Ensure the layout matches the design in the provided image.
 
-## Setup Instructions
-
-### Backend (Laravel)
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
 
 ## Submission
 
-1. Fork this repository.
-2. Create a new branch for your solution.
-3. Implement the project as described above.
-4. Push your code to your forked repository.
-5. Submit a pull request with a description of your implementation.
+1. Implement the project as described above.
+2. Push your code to two repository for Laravel and Nextjs Separately.
+3. Submit a pull request with a description of your implementation. 
 
 ## Evaluation Criteria
 
@@ -68,3 +58,5 @@ Please use the following technologies to complete the test:
 - Responsive and well-styled UI using **Tailwind CSS**.
 - Proper form validation using **Zod** in **Next.js**.
 - Adherence to the attached design image.
+- Here is figma URL or Design https://www.figma.com/design/yRb9VsumJBBlYwHqJ1kYcp/Laravel-Candidate?node-id=0-1&t=HNnZ6TWoZvwVaTze-1
+- You can ignore the layouts can focus only on the client module, Mainly insert, edit, views
