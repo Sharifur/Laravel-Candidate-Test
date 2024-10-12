@@ -1,4 +1,4 @@
-# Test Project For Laravel Candidate# Laravel Candidate Test
+# Test Project For Laravel Candidate
 
 ## Overview
 
